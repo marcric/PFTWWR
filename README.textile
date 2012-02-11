@@ -1,0 +1,7 @@
+h1. PFTWWR
+
+h3. What is it?
+
+* Programming for the Web with Ruby exercises
+
+ _*"Marcos Ricardo(MarcRic's Home)":http://marcric.com*_
