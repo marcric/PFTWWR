@@ -1,0 +1,7 @@
+h1. PFTWWR Day 1
+
+h3. What is it?
+
+* Programming for the Web with Ruby Day 1 folder
+
+ _*"Marcos Ricardo(MarcRic's Home)":http://marcric.com*_
