@@ -1,0 +1,7 @@
+h1. PFTWWR Day 3
+
+h3. What is it?
+
+* Programming for the Web with Ruby Day 3 exercises
+
+ _*"Marcos Ricardo(MarcRic's Home)":http://marcric.com*_
