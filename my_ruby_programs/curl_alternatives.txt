@@ -1,0 +1,2 @@
+curl -d "str=Trainer+On+Rails" http://sinatra2.hectorsq.com/reverse
+curl -F "str=Trainer On Rails" http://sinatra2.hectorsq.com/reverse
